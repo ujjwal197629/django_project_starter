@@ -3,3 +3,4 @@ env/
 __pycache__/
 # # ignore all migrations folder in all apps
 **/migrations/
+.env
