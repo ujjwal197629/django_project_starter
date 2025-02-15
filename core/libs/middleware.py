@@ -2,7 +2,7 @@ import logging
 import time
 from datetime import datetime
 
-from apps.users.models import RequestLog
+from api.users.models import RequestLog
 
 logger = logging.getLogger(__name__)
 
